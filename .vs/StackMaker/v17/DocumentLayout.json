@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\UnityWork\\StackMaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\managers\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\ui\\ui_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|d:\\documents\\unitywork\\stackmaker\\assets\\scripts\\managers\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\ui\\ui_finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|d:\\documents\\unitywork\\stackmaker\\assets\\scripts\\changedir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changedir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\ui\\ui_ingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_ingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\ui\\uicanva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicanva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\StackMaker\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA1BF37-E7A3-6804-D25B-48997BF41AE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 871,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangeDir.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\ChangeDir.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeDir.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\ChangeDir.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeDir.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:35:47.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Managers\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SaveData.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Managers\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SaveData.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:44:25.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinishLine.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:22:02.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Level.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Level.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:36:54.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Managers\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LevelManager.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Managers\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\LevelManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:33:11.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAiwPgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:17:28.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwC4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:18:11.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI_Finish.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\UI\\UI_Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_Finish.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\UI\\UI_Finish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_Finish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:11:04.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UI_InGame.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\UI\\UI_InGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_InGame.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\UI\\UI_InGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_InGame.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:57:19.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI_MainMenu.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:55:33.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Singleton\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Singleton\\Singleton.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Singleton\\Singleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Singleton\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:55:21.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UICanva.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\UI\\UICanva.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UICanva.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\UI\\UICanva.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UICanva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:49:10.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:58:00.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\StackMaker\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:25:30.469Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 864,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

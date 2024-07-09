@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\UnityWork\\stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{555052D8-9541-C62D-E97D-280D3717AA86}|Assembly-CSharp.csproj|d:\\documents\\unitywork\\stack\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555052D8-9541-C62D-E97D-280D3717AA86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555052D8-9541-C62D-E97D-280D3717AA86}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\stack\\assets\\scripts\\changedir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555052D8-9541-C62D-E97D-280D3717AA86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changedir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555052D8-9541-C62D-E97D-280D3717AA86}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\stack\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555052D8-9541-C62D-E97D-280D3717AA86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555052D8-9541-C62D-E97D-280D3717AA86}|Assembly-CSharp.csproj|D:\\Documents\\UnityWork\\stack\\assets\\scripts\\createmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555052D8-9541-C62D-E97D-280D3717AA86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\Block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 483,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAIwN0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:53:20.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeDir.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\ChangeDir.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeDir.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\ChangeDir.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeDir.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:04:31.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Block.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\Block.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Block.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\Block.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:18:06.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:03:47.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateMap.cs",
+              "DocumentMoniker": "D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\CreateMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreateMap.cs",
+              "ToolTip": "D:\\Documents\\UnityWork\\stack\\Assets\\Scripts\\CreateMap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreateMap.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:57:43.422Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 165,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
